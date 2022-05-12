@@ -21,19 +21,17 @@ h1 {
 
 h3 {
     color: white;
-    float: right;
     margin-right: 140px;
 }
 
 h4 {
     color: white;
-    float: right;
-    width: 100px;
-    margin-right: 70px;
+    float: left;
+    margin-left: 70px;
 }
 
 a {
-    float: right;
+    float: left;
     color: rgb(0, 184, 221);
     text-decoration: none;
     margin-right: 100px;
