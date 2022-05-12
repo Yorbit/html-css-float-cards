@@ -90,3 +90,7 @@ img {
     display: table;
     clear: both;
 }
+
+.first-clearfix {
+    margin-bottom: 170px;
+}
