@@ -27,11 +27,10 @@ h3 {
 h4 {
     color: white;
     float: left;
-    margin-left: 70px;
+    margin-left: 10px;
 }
 
 a {
-    float: left;
     color: rgb(0, 184, 221);
     text-decoration: none;
     margin-right: 100px;
@@ -50,23 +49,26 @@ img {
 
 .label {
     float: left;
-    width: calc(100% / 3);
-
+    width: calc(90% / 3);
 }
 
 .boy-1 {
     background-color: black;
     width: 33%;
+
 }
 
 .girl-1 {
     background-color: black;
     width: 33%;
+    margin-left: 10px;
+
 }
 
 .boy-2 {
     background-color: black;
     width: 33%;
+
 }
 
 .girl-2 {
@@ -77,6 +79,7 @@ img {
 .boy-3 {
     background-color: black;
     width: 33%;
+    margin-left: 10px;
 }
 
 .girl-3 {
