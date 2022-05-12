@@ -10,13 +10,83 @@ body {
 
 p {
     margin-bottom: 50px;
-    text-align:
-
 }
 
 h1 {
-    text-align: center;
     color: #ee3b91;
     margin-top: 100px;
     margin-bottom: 50px;
+}
+
+h3 {
+    color: white;
+    float: right;
+    margin-right: 70px;
+}
+
+h4 {
+    color: white;
+    float: right;
+    width: 100px;
+    margin-right: 70px;
+}
+
+a {
+    float: right;
+    color: rgb(0, 184, 221);
+    text-decoration: none;
+    margin-right: 45px;
+}
+
+.container {
+    text-align: center;
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+img {
+    height: 100px;
+    float: left;
+}
+
+.label {
+    float: left;
+    width: calc(100% / 3);
+    padding: 0 10px;
+}
+
+.boy-1 {
+    background-color: black;
+    width: 33%;
+}
+
+.girl-1 {
+    background-color: black;
+    width: 33%;
+}
+
+.boy-2 {
+    background-color: black;
+    width: 33%;
+}
+
+.girl-2 {
+    background-color: black;
+    width: 33%;
+}
+
+.boy-3 {
+    background-color: black;
+    width: 33%;
+}
+
+.girl-3 {
+    background-color: black;
+    width: 33%;
+}
+
+.clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
 }
